@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="tb_plaintext">Name</string>
+    <string name="bt_select">Select</string>
+</resources>
