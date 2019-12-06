@@ -1,0 +1,17 @@
+{
+  "name": "demolaravel",
+  "version": "1.0.0",
+  "description": "Find Me Project Build in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "findme-node.js"
+  ],
+  "author": "John Nico Novero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
